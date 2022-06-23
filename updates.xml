@@ -1,0 +1,13 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="" />
+      <item value="211.7628.21.2111.8139111" />
+      <item value="212.5712.43.2112.8512546" />
+      <item value="212.5712.43.2112.8609683" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-211.7628.21.2111.8309675" />
+    <option name="LAST_TIME_CHECKED" value="1655911213474" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

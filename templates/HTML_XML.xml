@@ -1,0 +1,15 @@
+<templateSet group="HTML/XML">
+  <template name="cchild" value="    &lt;$V$&#10;        android:id=&quot;@+id/$ID$&quot;&#10;        android:layout_width=&quot;0dp&quot;&#10;        android:layout_height=&quot;0dp&quot;&#10;        app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;        app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;        app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;        app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;        /&gt;" description="child of ConstraintLayout" toReformat="false" toShortenFQNames="true">
+    <variable name="V" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="cspace" value="    &lt;Space&#10;        android:id=&quot;@+id/$ID$&quot;&#10;        android:layout_width=&quot;0dp&quot;&#10;        android:layout_height=&quot;0dp&quot;&#10;        /&gt;" description="child of ConstraintLayout" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

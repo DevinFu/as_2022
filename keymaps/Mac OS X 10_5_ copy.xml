@@ -1,0 +1,199 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateCodeReadingNoteToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="AttachDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="ChangesView.GroupBy.Module" />
+  <action id="ChangesView.Move" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Debug" />
+  <action id="Debug with JRebel for Android">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id="JRebel for Android">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="JRebelAndroidApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="KJumpAction.Word1">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="NextWindow" />
+  <action id="PreviousEditorTab">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="RunClass" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Switch To Last Tab">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Switch To Tab #1">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Switch To Tab #10">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Switch To Tab #2">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Switch To Tab #3">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Switch To Tab #4">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="Switch To Tab #5">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="Switch To Tab #6">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="Switch To Tab #7">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="Switch To Tab #8">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Switch To Tab #9">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TodoViewGroupByShowModules" />
+  <action id="UsageGrouping.Module" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.ShowMessageHistory" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="com.gitlab.lae.intellij.actions.Escape">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+</keymap>

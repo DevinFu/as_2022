@@ -1,0 +1,16 @@
+<templateSet group="json">
+  <template name="data" value="{&#10;    &quot;code&quot;: 0,&#10;    &quot;data&quot;: {&#10;        &quot;data&quot;: $DATA$&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+    </context>
+  </template>
+</templateSet>
