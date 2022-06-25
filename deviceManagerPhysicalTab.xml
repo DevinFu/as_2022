@@ -20,10 +20,21 @@
             <value value="e52b90167d2a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-25T03:03:20.840245Z" />
         <name value="Xiaomi Redmi 6A" />
         <target value="Android 9.0" />
         <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="99051FFAZ004RV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-25T07:14:59.030702Z" />
+        <name value="Google Pixel 4" />
+        <target value="Android API 32" />
+        <api value="32" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
