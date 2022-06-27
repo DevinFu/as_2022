@@ -1,0 +1,51 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.106:5555" />
+          </Key>
+        </key>
+        <name value=" Google Nexus 5" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e52b90167d2a" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi 6A" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="99051FFAZ004RV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-27T06:34:24.377521Z" />
+        <name value="Google Pixel 4" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.102:5555" />
+          </Key>
+        </key>
+        <name value=" Google Pixel 2" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
