@@ -5,23 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="e52b90167d2a" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-30T15:54:02.547195Z" />
+        <name value="Xiaomi Redmi 6A" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.58.106:5555" />
           </Key>
         </key>
         <name value=" Google Nexus 5" />
         <target value="Android 6.0" />
         <api value="23" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="e52b90167d2a" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi 6A" />
-        <target value="Android 9.0" />
-        <api value="28" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
