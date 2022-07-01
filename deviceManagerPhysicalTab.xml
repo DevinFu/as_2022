@@ -46,6 +46,18 @@
         <target value="Android 8.0" />
         <api value="26" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.101:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-01T02:47:37.434200Z" />
+        <name value="Genymobile Google Pixel 3" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
