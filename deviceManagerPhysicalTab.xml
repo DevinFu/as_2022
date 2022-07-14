@@ -5,9 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="99051FFAZ004RV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-14T06:11:11.097051Z" />
+        <name value="Google Pixel 4" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="e52b90167d2a" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-07-08T15:30:32.981664Z" />
         <name value="Xiaomi Redmi 6A" />
         <target value="Android 9.0" />
         <api value="28" />
@@ -22,17 +35,6 @@
         <name value=" Google Nexus 5" />
         <target value="Android 6.0" />
         <api value="23" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="99051FFAZ004RV" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android API 32" />
-        <api value="32" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
