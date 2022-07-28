@@ -81,6 +81,18 @@
         <target value="Android 7.1.1" />
         <api value="25" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.1.59.40:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-28T03:24:00.249587Z" />
+        <name value="rockchip FD_T01" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
