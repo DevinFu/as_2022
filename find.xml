@@ -13,9 +13,9 @@
     <mask>*.json</mask>
     <mask>*.kotlin</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.dart</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

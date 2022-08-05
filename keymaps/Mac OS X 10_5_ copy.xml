@@ -109,6 +109,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="RecentFiles" />
   <action id="RecentLocations">

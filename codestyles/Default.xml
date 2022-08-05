@@ -26,6 +26,7 @@
       <emptyLine />
     </value>
   </option>
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="LAYOUT_SETTINGS">
       <value>
