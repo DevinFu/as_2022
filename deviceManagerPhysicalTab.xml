@@ -8,10 +8,9 @@
             <value value="99051FFAZ004RV" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-01T14:56:17.821080Z" />
-        <name value="Google Pixel 4" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
