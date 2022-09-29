@@ -11,6 +11,7 @@
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RECENT_FILES_LIMIT" value="25" />
     <option name="RECENT_LOCATIONS_LIMIT" value="50" />
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
