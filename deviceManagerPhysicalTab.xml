@@ -8,10 +8,9 @@
             <value value="99051FFAZ004RV" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-10-09T11:16:19.027632Z" />
         <name value="Google Pixel 4" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -20,10 +19,9 @@
             <value value="LEY7A07120023994" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-29T08:33:36.862615Z" />
         <name value="LeMobile LEX622" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,10 +30,9 @@
             <value value="e52b90167d2a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-08T15:30:32.981664Z" />
         <name value="Xiaomi Redmi 6A" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -46,7 +43,7 @@
         </key>
         <name value=" Google Nexus 5" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -57,7 +54,7 @@
         </key>
         <name value=" Google Pixel 2" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -68,7 +65,7 @@
         </key>
         <name value="Genymobile Google Pixel 3" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -77,10 +74,9 @@
             <value value="192.168.45.33:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-07T03:08:29.131892Z" />
         <name value="rockchip FD_T01" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -91,7 +87,7 @@
         </key>
         <name value="rockchip FD_T01" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
