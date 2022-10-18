@@ -54,4 +54,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="edf" value="//&lt;editor-fold desc=&quot;$DESC$&quot;&gt;&#10;$CODE$&#10;//&lt;/editor-fold&gt;" description="Editor Fold" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
