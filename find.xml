@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/biz_feedback [ScreenMirroring.biz_feedback]'" />
-    <option name="defaultScopeName" value="Directory '…/biz_feedback [ScreenMirroring.biz_feedback]'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/biz_feedback [ScreenMirroring.biz_feedback]'" />
+    <option name="customScope" value="Directory '…/app [ScreenMirroring.app]'" />
+    <option name="defaultScopeName" value="Directory '…/app [ScreenMirroring.app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/app [ScreenMirroring.app]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
