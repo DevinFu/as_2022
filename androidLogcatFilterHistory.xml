@@ -2,7 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="tag:Ads " />
         <option value="package:mine" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="tag:Ads " />
+    <option name="nonFavorites">
+      <list>
+        <option value="tag:A" />
+        <option value="tag:a" />
+        <option value="t" />
       </list>
     </option>
   </component>
