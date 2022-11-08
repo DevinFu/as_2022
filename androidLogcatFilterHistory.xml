@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="tag:FrzMusicPlayer " />
         <option value="package:mine" />
+        <option value="tag:FrzMusicPlayer " />
         <option value="tag:Ads " />
       </list>
     </option>
