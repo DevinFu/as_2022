@@ -2,15 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine level:ERROR " />
         <option value="package:mine" />
         <option value="tag:FrzMusicPlayer " />
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR StopWatch" />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR " />
         <option value="package:mine level:ERROR StopWatch" />
         <option value="package:mine level:E" />
         <option value="package:mine l" />
