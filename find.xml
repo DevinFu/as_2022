@@ -12,11 +12,11 @@
     <mask>*.mxml</mask>
     <mask>*.json</mask>
     <mask>*.kotlin</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.dart</mask>
     <mask>*.yaml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
