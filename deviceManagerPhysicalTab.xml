@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Google Pixel 4" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,10 +19,9 @@
             <value value="LEY7A07120023994" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-12-06T07:16:32.262701Z" />
         <name value="LeMobile LEX622" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
