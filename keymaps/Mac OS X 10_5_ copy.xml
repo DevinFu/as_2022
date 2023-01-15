@@ -58,6 +58,9 @@
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Dart.DartStyle">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="Debug" />
   <action id="Debug with JRebel for Android">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -115,6 +118,7 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ReformatCode" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
