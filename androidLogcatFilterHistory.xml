@@ -2,15 +2,22 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="tag:AdReport" />
-        <option value="tag:Ads " />
         <option value="tag:FrzMusicPlayer " />
+        <option value="tag:AdReport INTERSTITIAL" />
         <option value="package:mine" />
+        <option value="tag:AdReport Banner" />
+        <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:FrzMusicPlayer " />
+    <option name="mostRecentlyUsed" value="tag:FrzMusicPlayer Finished" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FrzMusicPlayer Finished" />
+        <option value="tag:FrzMusicPlayer" />
+        <option value="tag:FrzMusicPlayer theme" />
+        <option value="tag:FrzMusicPlayer t" />
+        <option value="tag:AdReport " />
+        <option value="tag:AdReport" />
         <option value="tag:" />
         <option value="tag:A" />
         <option value="package:mine level:ERROR " />
