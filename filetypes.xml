@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="biz_mode_dict.txt" type="AUTO_DETECTED" />
-      <mapping pattern="biz_mode_dict" type="AUTO_DETECTED" />
       <mapping pattern="discount_plan_model.dart" type="AUTO_DETECTED" />
+      <mapping pattern="biz_mode_dict" type="AUTO_DETECTED" />
       <mapping pattern="arc_map" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mmap" type="Native" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
-      <mapping pattern="common_assets.json" type="PLAIN_TEXT" />
-      <mapping pattern="create_wish" type="PLAIN_TEXT" />
       <mapping pattern="hpp_pages.dart" type="PLAIN_TEXT" />
+      <mapping pattern="create_wish" type="PLAIN_TEXT" />
+      <mapping pattern="common_assets.json" type="PLAIN_TEXT" />
       <mapping pattern="commission_ranks_widget.dart" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
