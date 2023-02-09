@@ -1,0 +1,94 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="99051FFAZ004RV" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="LEY7A07120023994" />
+          </Key>
+        </key>
+        <name value="LeMobile LEX622" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e52b90167d2a" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi 6A" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.106:5555" />
+          </Key>
+        </key>
+        <name value=" Google Nexus 5" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.102:5555" />
+          </Key>
+        </key>
+        <name value=" Google Pixel 2" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.58.101:5555" />
+          </Key>
+        </key>
+        <name value="Genymobile Google Pixel 3" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.45.33:5555" />
+          </Key>
+        </key>
+        <name value="rockchip FD_T01" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.1.59.40:5555" />
+          </Key>
+        </key>
+        <name value="rockchip FD_T01" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

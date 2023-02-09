@@ -1,0 +1,13 @@
+<templateSet group="Flutter">
+  <template name="thof" value="Theme.of(context).textTheme.body1.copyWith(color: Colors.black87)" description="Create ThemeData from build context" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="vas" value="($M$ as $N$).$method$" description="Cast Object" toReformat="false" toShortenFQNames="true">
+    <variable name="M" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="N" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
