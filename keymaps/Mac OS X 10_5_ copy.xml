@@ -118,7 +118,6 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="ReformatCode" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
