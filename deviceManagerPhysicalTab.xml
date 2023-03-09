@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="99051FFAZ004RV" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="LEY7A07120023994" />
           </Key>
         </key>
         <name value="LeMobile LEX622" />
         <target value="Android 6.0" />
         <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="99051FFAZ004RV" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
