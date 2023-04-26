@@ -9,10 +9,13 @@
         <option value="tag:Ads " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="tag:XGallery" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:hidephotos.photogallery.photovault.gallery" />
+        <option value="tag:XGallery" />
         <option value="package:mine E" />
+        <option value="package:mine " />
         <option value="tag:FrzMusicPlayer Finished" />
         <option value="tag:FrzMusicPlayer" />
         <option value="tag:FrzMusicPlayer theme" />
