@@ -36,6 +36,7 @@
     </option>
   </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
     <option name="JD_INDENT_ON_CONTINUATION" value="true" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
