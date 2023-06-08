@@ -4,6 +4,7 @@
     <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Configure Kotlin in Project" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database Inspector" displayType="NONE" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
