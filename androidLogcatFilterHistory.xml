@@ -9,9 +9,10 @@
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:hidephotos.photogallery.photovault.gallery" />
         <option value="package:mine level:error " />
         <option value="package:mine l" />
         <option value="package:mine tag:XGallery" />
@@ -20,7 +21,6 @@
         <option value="package:mine tag:" />
         <option value="package:mine tag:S" />
         <option value="package:mine t" />
-        <option value="package:hidephotos.photogallery.photovault.gallery" />
         <option value="tag:XGallery" />
         <option value="package:mine E" />
         <option value="tag:FrzMusicPlayer Finished" />
