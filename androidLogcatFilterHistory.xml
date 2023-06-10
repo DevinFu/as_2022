@@ -9,9 +9,11 @@
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:casttotv.miracast.screenmirroring level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:casttotv.miracast.screenmirroring level:error " />
+        <option value="package:casttotv.miracast.screenmirroring l" />
         <option value="package:hidephotos.photogallery.photovault.gallery" />
         <option value="package:mine level:error " />
         <option value="package:mine l" />
@@ -30,8 +32,6 @@
         <option value="tag:AdReport " />
         <option value="tag:AdReport" />
         <option value="tag:" />
-        <option value="tag:A" />
-        <option value="package:mine level:ERROR " />
       </list>
     </option>
   </component>
