@@ -9,9 +9,9 @@
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:casttotv.miracast.screenmirroring level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:casttotv.miracast.screenmirroring" />
         <option value="package:casttotv.miracast.screenmirroring level:error " />
         <option value="package:casttotv.miracast.screenmirroring l" />
         <option value="package:hidephotos.photogallery.photovault.gallery" />
@@ -31,7 +31,6 @@
         <option value="tag:FrzMusicPlayer t" />
         <option value="tag:AdReport " />
         <option value="tag:AdReport" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
