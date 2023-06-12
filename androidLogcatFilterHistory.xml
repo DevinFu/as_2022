@@ -9,9 +9,11 @@
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:error tag: FrzMusicPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error tag: FrzMusicPlayer" />
+        <option value="package:mine level:error t" />
         <option value="package:mine level:error " />
         <option value="package:mine l" />
         <option value="package:mine tag:AppsFlyer" />
@@ -30,8 +32,6 @@
         <option value="tag:FrzMusicPlayer Finished" />
         <option value="tag:FrzMusicPlayer" />
         <option value="tag:FrzMusicPlayer theme" />
-        <option value="tag:FrzMusicPlayer t" />
-        <option value="tag:AdReport " />
       </list>
     </option>
   </component>
