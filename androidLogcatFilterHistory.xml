@@ -9,9 +9,11 @@
         <option value="tag:Ads " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:casttotv.miracast.screenmirroring level:error " />
+    <option name="mostRecentlyUsed" value="package:hidephotos.photogallery.photovault.gallery level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:hidephotos.photogallery.photovault.gallery level:error " />
+        <option value="package:hidephotos.photogallery.photovault.gallery l" />
         <option value="package:casttotv.miracast.screenmirroring level:error " />
         <option value="package:casttotv.miracast.screenmirroring l" />
         <option value="package:mine level:error " />
@@ -30,8 +32,6 @@
         <option value="tag:XGallery" />
         <option value="package:mine E" />
         <option value="tag:FrzMusicPlayer Finished" />
-        <option value="tag:FrzMusicPlayer" />
-        <option value="tag:FrzMusicPlayer theme" />
       </list>
     </option>
   </component>
