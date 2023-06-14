@@ -1,0 +1,29 @@
+<templateSet group="mine">
+  <template name="RC" value="kotlin.runCatching {&#10;    $SELECTION$&#10;}" description="surround with runcatching" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="R" value="run {&#10;    $SELECTION$&#10;}" description="surround with run" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="MT" value="measureTimedValue {&#10;    $SELECTION$&#10;}.let{&#10;    $END$&#10;}" description="surround with measureTime" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>
